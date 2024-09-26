@@ -1,0 +1,7 @@
+# Ignore object files and executables
+*.o
+*.out
+
+# OS-specific files
+.DS_Store
+Thumbs.db
